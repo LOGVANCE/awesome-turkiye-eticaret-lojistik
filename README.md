@@ -9,6 +9,10 @@
 - [Kargo firmaları: API ve takip](#kargo-firmaları-api-ve-takip)
 - [Kargo entegratörleri ve kütüphaneler](#kargo-entegratörleri-ve-kütüphaneler)
 - [E-ticaret altyapıları](#e-ticaret-altyapıları)
+- [Fulfillment ve depo yönetimi](#fulfillment-ve-depo-yönetimi)
+  - [Desi ve kargo ücreti](#desi-ve-kargo-ücreti)
+  - [Barkod ve etiket](#barkod-ve-etiket)
+  - [Açık kaynak depo yönetim sistemleri](#açık-kaynak-depo-yönetim-sistemleri)
 
 ## Pazaryeri API'leri ve geliştirici dokümanları
 
@@ -61,3 +65,27 @@
 - [Shopify Dev Docs](https://shopify.dev/) - Shopify uygulama, tema ve mağaza API'leri için resmi dokümanlar
 - [Ticimax Custom Servis Dokümanı](https://static.ticimax.com/dokumanlar/CustomServis.pdf) - Ticimax SOAP web servis metotlarını parametre tablolarıyla anlatan PDF
 - [WooCommerce REST API](https://woocommerce.github.io/woocommerce-rest-api-docs/) - WooCommerce mağazaları için REST API referansı
+
+## Fulfillment ve depo yönetimi
+
+### Desi ve kargo ücreti
+
+- [Aras Kargo Ücret Hesaplama](https://www.araskargo.com.tr/kargo-ucreti-hesaplama) - Aras Kargo gönderileri için ücret hesaplama ekranı
+- [Logvance Desi Hesaplama](https://logvance.com/desi-hesaplama/) - Koli ölçülerinden desi ve ücrete esas ağırlığı hesaplayan araç
+- [Sürat Kargo Fiyat Hesaplama](https://suratkargo.com.tr/BilgiHizmetleri/GonderiStandartlarimiz/FiyatHesaplama) - Sürat Kargo gönderileri için fiyat hesaplama ekranı
+- [Yurtiçi Kargo Fiyat Nasıl Hesaplanıyor](https://www.yurticikargo.com/tr/gonderi-rehberleri/fiyat-nasil-hesaplaniyor) - Desi ile gerçek ağırlık karşılaştırmasına dayalı ücretlendirmeyi anlatan rehber
+
+### Barkod ve etiket
+
+- [bwip-js](https://github.com/metafloor/bwip-js) - Saf JavaScript ile çok sayıda barkod türü üreten kütüphane
+- [JsBarcode](https://github.com/lindell/JsBarcode) - Tarayıcıda ve Node.js'te çalışan JavaScript barkod üretim kütüphanesi
+- [Labelary ZPL Viewer](https://labelary.com/viewer.html) - ZPL etiketlerini çevrim içi düzenleme ve önizleme aracı
+- [Zint](https://github.com/zint/zint) - Code 128, EAN-128 ve QR dahil 50'den fazla simgeyi destekleyen barkod kütüphanesi
+
+### Açık kaynak depo yönetim sistemleri
+
+- [GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) - Satış sonrası lojistik depolama süreçlerinden doğan açık kaynak envanter yönetim sistemi
+- [InvenTree](https://github.com/inventree/InvenTree) - Parça ve stok takibi için açık kaynak envanter yönetim sistemi
+- [ModernWMS](https://github.com/fjykTec/ModernWMS) - Basit ve eksiksiz olmayı hedefleyen açık kaynak depo yönetim sistemi
+- [OpenBoxes](https://github.com/openboxes/openboxes) - Sağlık kurumları için stok hareketlerini izleyen depo yönetim sistemi
+- [OpenWMS](https://github.com/openwms/org.openwms) - Açık kaynak depo yönetim sistemi projesi
