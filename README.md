@@ -87,6 +87,7 @@
 ### Desi ve kargo ücreti
 
 - [Aras Kargo Ücret Hesaplama](https://www.araskargo.com.tr/kargo-ucreti-hesaplama) - Aras Kargo gönderileri için ücret hesaplama ekranı.
+- [fulfillment-desi](https://github.com/LOGVANCE/fulfillment-desi) - Türkiye kargo firmaları için desi ve ücretlendirilebilir ağırlık hesaplayan TypeScript kütüphanesi ve CLI.
 - [Logvance Desi Hesaplama](https://logvance.com/desi-hesaplama/) - Koli ölçülerinden desi ve ücrete esas ağırlığı hesaplayan araç.
 - [Sürat Kargo Fiyat Hesaplama](https://suratkargo.com.tr/BilgiHizmetleri/GonderiStandartlarimiz/FiyatHesaplama) - Sürat Kargo gönderileri için fiyat hesaplama ekranı.
 - [Yurtiçi Kargo Fiyat Nasıl Hesaplanıyor](https://www.yurticikargo.com/tr/gonderi-rehberleri/fiyat-nasil-hesaplaniyor) - Desi ile gerçek ağırlık karşılaştırmasına dayalı ücretlendirmeyi anlatan rehber.
