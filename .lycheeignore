@@ -1,0 +1,13 @@
+# Otomatik isteklere 403 veya bot doğrulaması döndüren alan adları.
+# Bu bağlantılar tarayıcıda çalışır, elle kontrol edilir.
+^https://dev\.param\.com\.tr/
+^https://www\.hepsijet\.com/
+^https://www\.kolaygelsin\.com/
+^https://www\.pwc\.com\.tr/
+^https://sellercentral\.amazon\.com\.tr/
+^https://www\.trendyol\.com/
+^https://(www\.)?n11\.com/
+^https://(www\.)?ciceksepeti\.com/
+^https://tusiad\.org/
+# CONTRIBUTING.md içindeki örnek bağlantı
+^https://ornek\.com/
