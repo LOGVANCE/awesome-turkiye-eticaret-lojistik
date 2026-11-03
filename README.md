@@ -21,6 +21,12 @@
   - [Geliştirici dokümanları](#geliştirici-dokümanları)
   - [SDK ve kütüphaneler](#sdk-ve-kütüphaneler)
 - [Gümrük ve dış ticaret](#gümrük-ve-dış-ticaret)
+- [Mevzuat ve kurumlar](#mevzuat-ve-kurumlar)
+  - [Mevzuat](#mevzuat)
+  - [Kurumlar ve kamu sistemleri](#kurumlar-ve-kamu-sistemleri)
+- [Veri ve raporlar](#veri-ve-raporlar)
+- [Sözlük ve eğitim](#sözlük-ve-eğitim)
+- [Topluluklar ve bültenler](#topluluklar-ve-bültenler)
 
 ## Pazaryeri API'leri ve geliştirici dokümanları
 
@@ -155,3 +161,49 @@
 - [Tarife Arama Motoru](https://uygulama.gtb.gov.tr/Tara) - Ürün adı veya GTİP koduyla gümrük tarife pozisyonu arama aracı
 - [TİM](https://tim.org.tr/tr/) - İhracatçı birliklerini bir araya getiren Türkiye İhracatçılar Meclisi
 - [Türk Eximbank](https://www.eximbank.gov.tr/) - İhracat finansmanı sağlayan kamu bankası
+
+## Mevzuat ve kurumlar
+
+### Mevzuat
+
+- [6475 Sayılı Posta Hizmetleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6475.pdf) - Kargo ve posta hizmeti sağlayıcılarının yetkilendirilmesini düzenleyen kanun
+- [6502 Sayılı Tüketicinin Korunması Hakkında Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6502.pdf) - Mesafeli satış ve cayma hakkı hükümlerinin dayandığı kanun
+- [6563 Sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6563.pdf) - E-ticaret, ticari elektronik ileti ve aracı hizmet sağlayıcı yükümlülükleri
+- [6698 Sayılı Kişisel Verilerin Korunması Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6698.pdf) - Kişisel verilerin işlenmesine ilişkin temel kanun
+- [Elektronik Ticaret Aracı Hizmet Sağlayıcı Yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2022/12/20221229-5.htm) - Pazaryerleri ve e-ticaret hizmet sağlayıcılarına ilişkin 2022 tarihli yönetmelik
+- [Elektronik Ticarette Güven Damgası Hakkında Tebliğ](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23634&MevzuatTur=9&MevzuatTertip=5) - E-ticaret siteleri için güven damgası şartlarını belirleyen tebliğ
+- [Mesafeli Sözleşmeler Yönetmeliği](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20237&MevzuatTur=7&MevzuatTertip=5) - Ön bilgilendirme, cayma hakkı ve teslimat yükümlülüklerini düzenleyen yönetmelik
+
+### Kurumlar ve kamu sistemleri
+
+- [BTK](https://www.btk.gov.tr/) - Posta ve kargo sektörünü de düzenleyen Bilgi Teknolojileri ve İletişim Kurumu
+- [ETBİS](https://etbis.ticaret.gov.tr/) - E-ticaret yapan işletmelerin kayıt olduğu Elektronik Ticaret Bilgi Sistemi
+- [İYS](https://iys.org.tr/) - Ticari elektronik ileti izinlerinin yönetildiği İleti Yönetim Sistemi
+- [KVKK](https://www.kvkk.gov.tr/) - Kişisel Verileri Koruma Kurumu kararları ve rehberleri
+- [Rekabet Kurumu](https://www.rekabet.gov.tr/) - Rekabet Kurulu kararları ve sektör incelemeleri
+- [Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğü](https://tuketici.ticaret.gov.tr/) - Ticaret Bakanlığı'nın tüketici mevzuatı ve başvuru bilgileri
+
+## Veri ve raporlar
+
+- [E-Ticaret Lojistiğinde Sorunlar ve Politika Önerileri](https://www.pwc.com.tr/tr/Hizmetlerimiz/yonetim-danismanligi/tedarik-zinciri/yayinlar/assets/e-ticaret-lojistiginde-sorunlar-ve-politika-onerileri-v2.pdf) - TÜSİAD için hazırlanan e-ticaret lojistiği sorunları ve politika önerileri raporu
+- [E-Ticaretin Gelişimi, Sınırların Aşılması ve Yeni Normlar](https://www.deloitte.com/content/dam/assets-zone2/tr/tr/docs/industries/consumer/2024/e-ticaretin-gelisimi-sinirlarin-asilmasi-ve-yeni-normlar.pdf) - TÜSİAD ve Deloitte Digital'in Türkiye e-ticaret pazarı raporu
+- [iyzico E-Commerce Report 2025](https://www.iyzico.com/assets/uploads/pdf/iyzico_ecommerce_report_2025.pdf) - iyzico'nun Türkiye e-ticaret eğilimleri raporu
+- [Türkiye'de E-Ticaretin Görünümü Raporları](https://etbis.ticaret.gov.tr/tr/Post/postturkiyede-e-ticaretin-gorunumu-raporlari) - Ticaret Bakanlığı'nın yıllık e-ticaret raporları (2023-2025)
+
+## Sözlük ve eğitim
+
+- [Amazon Seller University](https://sellercentral.amazon.com.tr/learn) - Amazon Türkiye satıcıları için Türkçe eğitim içerikleri
+- [e-Fatura, e-Arşiv ve e-İrsaliye Rehberi](https://github.com/alestaweb/efatura-earsiv-eirsaliye-rehberi) - E-belge süreçlerinin yazılım tarafını anlatan açık kaynak rehber
+- [ETBİS E-Ticaret Akademisi](https://etbis.ticaret.gov.tr/tr/ETicaretAkademisi) - Ticaret Bakanlığı'nın e-ticaret ve e-ihracat eğitim içerikleri
+- [Logvance Lojistik Sözlüğü](https://logvance.com/lojistik-sozlugu/) - Depo, stok, sipariş ve dış ticaret terimlerinin Türkçe açıklamaları
+- [Trendyol Akademi](https://akademi.trendyol.com/) - Trendyol satıcıları için çevrim içi eğitim ve etkinlik platformu
+
+## Topluluklar ve bültenler
+
+- [ETİD](https://etid.org.tr/) - Elektronik Ticaret İşletmecileri Derneği
+- [LODER](https://www.loder.org.tr/) - Lojistik Derneği
+- [Lojistik Hattı](https://www.lojistikhatti.com/) - Lojistik sektörü haberleri ve UTA Lojistik dergisi
+- [Türk API'leri](https://github.com/3rt4nm4n/turkish-apis) - Türkiye'ye ait API'lerin topluluk tarafından derlenen listesi
+- [UND](https://www.und.org.tr/) - Uluslararası Nakliyeciler Derneği
+- [UTİKAD](https://www.utikad.org.tr/) - Uluslararası Taşımacılık ve Lojistik Hizmet Üretenleri Derneği
+- [Webrazzi E-Ticaret](https://webrazzi.com/etiket/e-ticaret/) - Türkiye e-ticaret girişimleri ve yatırımlarıyla ilgili haberler
