@@ -13,6 +13,14 @@
   - [Desi ve kargo ücreti](#desi-ve-kargo-ücreti)
   - [Barkod ve etiket](#barkod-ve-etiket)
   - [Açık kaynak depo yönetim sistemleri](#açık-kaynak-depo-yönetim-sistemleri)
+- [E-fatura, e-arşiv ve e-irsaliye](#e-fatura-e-arşiv-ve-e-irsaliye)
+  - [Resmi kaynaklar](#resmi-kaynaklar)
+  - [E-dönüşüm hizmet sağlayıcıları](#e-dönüşüm-hizmet-sağlayıcıları)
+  - [Açık kaynak e-belge araçları](#açık-kaynak-e-belge-araçları)
+- [Ödeme sistemleri](#ödeme-sistemleri)
+  - [Geliştirici dokümanları](#geliştirici-dokümanları)
+  - [SDK ve kütüphaneler](#sdk-ve-kütüphaneler)
+- [Gümrük ve dış ticaret](#gümrük-ve-dış-ticaret)
 
 ## Pazaryeri API'leri ve geliştirici dokümanları
 
@@ -89,3 +97,61 @@
 - [ModernWMS](https://github.com/fjykTec/ModernWMS) - Basit ve eksiksiz olmayı hedefleyen açık kaynak depo yönetim sistemi
 - [OpenBoxes](https://github.com/openboxes/openboxes) - Sağlık kurumları için stok hareketlerini izleyen depo yönetim sistemi
 - [OpenWMS](https://github.com/openwms/org.openwms) - Açık kaynak depo yönetim sistemi projesi
+
+## E-fatura, e-arşiv ve e-irsaliye
+
+### Resmi kaynaklar
+
+- [e-Arşiv Portal](https://earsivportal.efatura.gov.tr/) - GİB'in e-Arşiv fatura düzenleme portalı
+- [e-Fatura Mevzuat ve Teknik Kılavuzlar](https://ebelge.gib.gov.tr/efaturamevzuat.html) - VUK tebliğleri, UBL-TR 1.2.1 kılavuzları ve paket dosyaları
+- [e-İrsaliye Mevzuat ve Teknik Kılavuzlar](https://ebelge.gib.gov.tr/eirsaliyemevzuat.html) - e-İrsaliye tebliğleri, uygulama kılavuzu ve UBL-TR kılavuzları
+- [eBelge](https://ebelge.gib.gov.tr/) - GİB'in e-Fatura, e-Arşiv ve e-İrsaliye uygulamaları bilgi sitesi
+- [Özel Entegratörler Listesi](https://ebelge.gib.gov.tr/efaturaozelentegratorlerlistesi.html) - GİB'den özel entegrasyon izni almış firmaların listesi
+
+### E-dönüşüm hizmet sağlayıcıları
+
+- [EDM](https://www.edmbilisim.com.tr/) - e-Fatura, e-Arşiv, e-Defter ve KEP hizmetleri sunan e-dönüşüm firması
+- [İZİBİZ](https://izibiz.com.tr/) - e-Fatura, e-Defter ve ön muhasebe hizmetleri sunan e-dönüşüm firması
+- [Paraşüt DevHub](https://devhub.parasut.com/) - Paraşüt ön muhasebe API'si için geliştirici portalı
+- [QNB eSolutions](https://www.qnbesolutions.com.tr/) - e-Fatura ve diğer e-belge ürünleri sunan e-dönüşüm firması
+- [Uyumsoft](https://www.uyumsoft.com/) - ERP ve e-dönüşüm yazılımları geliştiren yazılım firması
+
+### Açık kaynak e-belge araçları
+
+- [e_donusum](https://github.com/Odoo-Turkey-Community/e_donusum) - Odoo için e-Fatura, e-İrsaliye, e-Defter ve e-Banka modülleri
+- [eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal) - GİB e-Arşiv Portal üzerinden fatura oluşturan Python kütüphanesi
+- [efatura](https://github.com/furkankadioglu/efatura) - e-Arşiv üzerinden fatura oluşturan PHP kütüphanesi
+- [efatura-kontrol](https://github.com/BerkantACUN/efatura-kontrol) - UBL-TR belgelerini GİB XSD ve şematron kurallarıyla yerelde doğrulayan araç
+- [f/fatura](https://github.com/f/fatura) - e-Arşiv portalı üzerinden fatura oluşturan TypeScript kütüphanesi
+- [mlevent/fatura](https://github.com/mlevent/fatura) - e-Arşiv Portal için e-Fatura, e-SMM ve e-Müstahsil oluşturan PHP kütüphanesi
+- [UblTr](https://github.com/hkutluay/UblTr) - .NET için UBL-TR 1.2.1 (UBL 2.1) sınıf kütüphanesi
+
+## Ödeme sistemleri
+
+### Geliştirici dokümanları
+
+- [iyzico Geliştirici Dokümanı](https://docs.iyzico.com/) - iyzico ödeme formu, API ve ödeme yöntemleri için resmi doküman
+- [Moka United Developer Portal](https://developer.mokaunited.com/) - Moka United ödeme entegrasyonu için doküman ve destek portalı
+- [Param Geliştirici](https://dev.param.com.tr/) - ParamPOS ödeme, ön provizyon, kart saklama ve iade servislerinin dokümanı
+- [PayTR Geliştirici Merkezi](https://dev.paytr.com/) - PayTR sanal POS ve ödeme çözümlerinin entegrasyon dokümanları
+
+### SDK ve kütüphaneler
+
+- [anadolupay-node](https://github.com/Voxyfy/anadolupay-node) - Türk banka ve ödeme sağlayıcıları için tek arayüzlü Node.js ödeme kütüphanesi
+- [better-payment](https://github.com/czaydev/better-payment) - iyzico, PayTR, Parampos, Sipay ve banka POS'ları için TypeScript ödeme arayüzü
+- [craftgate-php-client](https://github.com/craftgate/craftgate-php-client) - Craftgate ödeme API'si için resmi PHP istemcisi
+- [iyzipay-node](https://github.com/iyzico/iyzipay-node) - iyzico API'si için resmi Node.js istemcisi
+- [iyzipay-php](https://github.com/iyzico/iyzipay-php) - iyzico API'si için resmi PHP istemcisi
+- [iyzipay-python](https://github.com/iyzico/iyzipay-python) - iyzico API'si için resmi Python istemcisi
+- [iyzipay-woocommerce](https://github.com/iyzico/iyzipay-woocommerce) - iyzico ödeme altyapısı için WooCommerce eklentisi
+
+## Gümrük ve dış ticaret
+
+- [4458 Sayılı Gümrük Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4458.pdf) - Gümrük işlemlerini düzenleyen temel kanunun metni
+- [Beyanname Sorgulama](https://uygulama.gtb.gov.tr/BeyannameSorgulama/) - Gümrük beyannamesinin durumunu sorgulama ekranı
+- [Dijital Gümrük Uygulamaları](https://ticaret.gov.tr/gumruk-islemleri/dijital-gumruk-uygulamalari) - NCTS, Tek Pencere ve EDI/XML mesajları gibi gümrük sistemlerinin listesi
+- [İhracat](https://ticaret.gov.tr/ihracat) - Ticaret Bakanlığı ihracat ve e-ihracat destekleri, mevzuat ve pazar raporları
+- [Mikro İhracat BGB Duyurusu](https://ticaret.gov.tr/haberler/ticaret-bakanligindan-mikro-ihracat-yapmak-isteyenlere-kolaylastirici-adim) - İlk kez mikro ihracat yapanlar için BGB sürecindeki kolaylık (2024)
+- [Tarife Arama Motoru](https://uygulama.gtb.gov.tr/Tara) - Ürün adı veya GTİP koduyla gümrük tarife pozisyonu arama aracı
+- [TİM](https://tim.org.tr/tr/) - İhracatçı birliklerini bir araya getiren Türkiye İhracatçılar Meclisi
+- [Türk Eximbank](https://www.eximbank.gov.tr/) - İhracat finansmanı sağlayan kamu bankası
