@@ -19,10 +19,10 @@ Katkılarınızı bekliyoruz. Bu liste, Türkiye e-ticaret ve lojistik ekosistem
 ## Madde formatı
 
 ```markdown
-- [Kaynak Adı](https://ornek.com/) - Kısa ve tarafsız tek cümlelik açıklama
+- [Kaynak Adı](https://ornek.com/) - Kısa ve tarafsız tek cümlelik açıklama.
 ```
 
-- Açıklama tek cümle ve en fazla 15 kelime olmalı.
+- Açıklama tek cümle, en fazla 15 kelime olmalı ve nokta ile bitmelidir (awesome-lint kuralı).
 - "En iyi", "lider", "ücretsiz deneyin" gibi pazarlama ifadeleri kullanılmamalı.
 - Her bölümde maddeler alfabetik sıradadır (Türkçe alfabe). Yeni maddeyi doğru yere ekleyin.
 - Aynı bağlantı listede yalnızca bir kez yer alabilir.
