@@ -1,8 +1,14 @@
 # Otomatik isteklere 403 veya bot doğrulaması döndüren alan adları.
-# Bu bağlantılar tarayıcıda çalışır, elle kontrol edilir.
+# Bu bağlantılar tarayıcıda (Türkiye'den) çalışır, elle kontrol edilir.
 ^https://dev\.param\.com\.tr/
+^https://developer\.ups\.com/
+^https://developers\.hepsiburada\.com/
+^https://devhub\.parasut\.com/
+^https://(ekargo\.)?suratkargo\.com\.tr/
 ^https://www\.hepsijet\.com/
 ^https://www\.kolaygelsin\.com/
+^https://www\.loder\.org\.tr/
+^https://www\.lojistikhatti\.com/
 ^https://www\.pwc\.com\.tr/
 ^https://sellercentral\.amazon\.com\.tr/
 ^https://www\.trendyol\.com/
