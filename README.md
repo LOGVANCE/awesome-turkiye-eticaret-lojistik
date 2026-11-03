@@ -27,6 +27,8 @@
 - [Veri ve raporlar](#veri-ve-raporlar)
 - [Sözlük ve eğitim](#sözlük-ve-eğitim)
 - [Topluluklar ve bültenler](#topluluklar-ve-bültenler)
+- [Katkı](#katkı)
+- [Lisans](#lisans)
 
 ## Pazaryeri API'leri ve geliştirici dokümanları
 
@@ -207,3 +209,11 @@
 - [UND](https://www.und.org.tr/) - Uluslararası Nakliyeciler Derneği
 - [UTİKAD](https://www.utikad.org.tr/) - Uluslararası Taşımacılık ve Lojistik Hizmet Üretenleri Derneği
 - [Webrazzi E-Ticaret](https://webrazzi.com/etiket/e-ticaret/) - Türkiye e-ticaret girişimleri ve yatırımlarıyla ilgili haberler
+
+## Katkı
+
+Katkılarınızı bekliyoruz. Lütfen önce [katkı rehberini](CONTRIBUTING.md) okuyun.
+
+## Lisans
+
+Bu liste [CC0 1.0](LICENSE) ile kamu malı olarak paylaşılmaktadır.
